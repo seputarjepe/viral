@@ -1,0 +1,2211 @@
+
+ 
+
+                   <!doctype html>
+<html lang="en">
+   
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <meta name="description" content="Universitas Qamarul Huda Badaruddin (UNIQHBA) berdiri pada tanggal 9 November 2017 yang merupakan hasil dari penggabungan STIKES Qamarul Huda dengan STKIP Qamarul Huda. UNIQHBA memiliki tiga Fakultas yaitu : Fakultas Kesehatan, Fakultas Keguruan dan Ilmu Pendidikan, dan Fakultas Sains dan Teknologi.">
+  <meta name="keywords" content="universitas unggulan lombok universitas di lombok"/>
+   <meta name="og:url" content="https://selerakuliner.com" />
+      <meta name="author" content="">
+      <link rel="icon" href="https://uniqhba.ac.id/assets/images/favicon.png">
+      <title>UNIQHBA | Home</title>
+      <!-- CSS FILES START -->
+ 
+ 
+      <link href="https://uniqhba.ac.id/assets/font-awesome/css/font-awesome.min.css">
+      <link href="https://uniqhba.ac.id/assets/css/custom.css" rel="stylesheet">
+      <link href="https://uniqhba.ac.id/assets/css/color.css" rel="stylesheet">
+      <link href="https://uniqhba.ac.id/assets/css/responsive.css" rel="stylesheet">
+      <link href="https://uniqhba.ac.id/assets/css/owl.carousel.min.css" rel="stylesheet">
+      <link href="https://uniqhba.ac.id/assets/css/bootstrap.min.css" rel="stylesheet">
+      <link href="https://uniqhba.ac.id/assets/css/prettyPhoto.css" rel="stylesheet">
+      <link href="https://uniqhba.ac.id/assets/css/all.min.css" rel="stylesheet">
+       <link rel="stylesheet" href="https://uniqhba.ac.id/assets/datatables/dataTables.bootstrap.css">
+      <style type="text/css">
+        .modal-full {
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-full .modal-content {
+    min-height: 100vh;
+}
+      </style>
+      <!-- CSS FILES End -->
+   </head>
+   <body>
+      <div class="wrapper home2">
+         <!--Header Start-->
+         <header class="header-style-2">
+            <nav class="navbar navbar-expand-lg">
+               <a class="navbar-brand" href="index.php"><img src="https://uniqhba.ac.id/assets/images/logo_header1.png" alt="" width="260"></a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <i class="fas fa-bars"></i> </button>
+               <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                <li class="nav-item"> <a class="nav-link" href="https://uniqhba.ac.id/">Beranda</a> </li>
+                     
+                        <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Tentang </a>
+                        <ul class="dropdown-menu" >
+                                                             <li><a href="https://uniqhba.ac.id/tentang/index/1/Sambutan-Rektor">Sambutan Rektor</a></li>
+                                                    <li><a href="https://uniqhba.ac.id/tentang/index/2/Sejarah">Sejarah</a></li>
+                                                    <li><a href="https://uniqhba.ac.id/tentang/index/3/Struktur-Organisasi">Struktur Organisasi</a></li>
+                                                    <li><a href="https://uniqhba.ac.id/tentang/index/4/Visi---Misi-UNIVERSITAS">Visi - Misi UNIVERSITAS</a></li>
+                                                    <li><a href="https://uniqhba.ac.id/tentang/index/6/Visi---Misi-Prodi-Pendidikan-Ekonomi-Koperasi">Visi - Misi Prodi Pendidikan Ekonomi Koperasi</a></li>
+                                                   
+                        </ul>
+                     </li>
+                           <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> AKADEMIK </a>
+                        <ul class="dropdown-menu" >
+                           <li><a href="https://uniqhba.ac.id/prodi">Fakultas & Program Studi</a></li>
+                           <li><a href="https://uniqhba.ac.id/kurikulum">Kurikulum</a></li>
+                           <li><a href="https://uniqhba.ac.id/dosen/index">Dosen</a></li>
+                         
+                        </ul>
+                     </li>
+                        <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Lembaga </a>
+                        <ul class="dropdown-menu" >
+                                                       <li><a href="https://pustik.uniqhba.ac.id" target="_balnk">PUSTIK</a></li>
+                                                    <li><a href="https://lppm.uniqhba.ac.id" target="_balnk">LPPM</a></li>
+                                                    <li><a href="https://lpmi.uniqhba.ac.id" target="_balnk">LPMI</a></li>
+                                                    <li><a href="https://pmb.uniqhba.ac.id" target="_balnk">LPPMB</a></li>
+                                                  
+                        </ul>
+                     </li>
+                      <li class="nav-item"> <a class="nav-link"  href="http://s2adminkes.uniqhba.ac.id" target="_blank">Pascasarjana</a> </li>
+                       <li class="nav-item"> <a class="nav-link" href="http://rektorat.uniqhba.ac.id" target="_blank">Rektorat</a> </li>
+                      <li class="nav-item"> <a class="nav-link" href="https://uniqhba.ac.id/contact">Contact</a> </li>
+                    
+                    
+                  </ul>
+                  <ul class="topnav-right">
+                     <li> <a class="mdonate" href="http://pmb.uniqhba.ac.id" target="_blank"><span>DAFTAR KULIAH SEKARANG</span></a> </li>
+                     <li> <a class="search-icon" data-toggle="modal" data-target="#cari" style="color: #fff;"> <i class="fas fa-search"></i> </a> </li>
+                  </ul>
+               </div>
+            </nav>
+         </header>
+
+        
+        <!-- Modal -->
+<div class="modal fade" id="cari" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-full modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"s style="font-weight: bold; font-size: 36px;">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" align="center">
+<form method="post" action="https://uniqhba.ac.id/posting/search"  align="center">
+   <div class="input-group" style="margin-top: 200px;">
+   <input type="search" name="search" class="form-control input-lg" value="" placeholder="type keyword(s) here" style="font-weight: bold; font-size: 30px; text-align: center; padding: 20px; min-height: 80px;" autofocus="" />
+    <div class="input-group-btn">
+     <button type="submit" class="btn btn-primary btn-lg" style="font-weight: bold; font-size: 30px; text-align: center; max-width: 200px; min-height: 80px;"><i class="fas fa-search"></i></button>
+    </div>
+  </div>
+ 
+            </form>
+      </div>
+     
+    </div>
+  </div>
+</div>
+
+         <!--Header End--> 
+
+         <!--Slider Start-->
+
+         <section id="home-slider" class="owl-carousel owl-theme wf100">
+
+          
+            <div class="item">
+
+               <div class="slider-caption h2slider">
+
+                  <div class="container">
+
+                    
+
+                
+
+               
+
+                  </div>
+
+               </div>
+
+               <img src="https://sim.uniqhba.ac.id/assets/upload/slide/banner_web_2.jpg" alt=""> 
+
+            </div>
+
+
+            <div class="item">
+
+               <div class="slider-caption h2slider">
+
+                  <div class="container">
+
+                    
+
+                
+
+               
+
+                  </div>
+
+               </div>
+
+               <img src="https://sim.uniqhba.ac.id/assets/upload/slide/banner_web_21.jpg" alt=""> 
+
+            </div>
+
+
+    
+
+         </section>
+
+         <div style="margin:0px; text-align:center; background-color: #009933; color:#fff; ">
+
+           <p style="color:#fff; margin:0px; font-size:20px; font-weght:bold;"> SELAMAT DATANG DI UNIVERSITAS QAMARUL HUDA BADARUDDIN BAGU <a href="https://pmb.uniqhba.ac.id" style="margin:0px;"><button class="btn btn-warning btn-lg" style="margin:10px;">DAFTAR SEKARANG</button></a> </p>
+
+               
+
+         </div>
+
+            
+
+         <!--Slider End--> 
+
+         <!--Service Area Start
+
+         <section class="services-area wf100">
+
+            <div class="container" align="center">
+
+               <ul>
+
+               
+
+                  <li>
+
+                     <div class="sinfo">
+
+                       <a data-toggle="modal" data-target="#fkes"> <img src="./assets/images/1.png" alt="" width="200">
+
+                        <h6>FKES</h6>
+
+                        <p>Fakultas Kesehatan</p>
+
+                        </a>
+
+                     </div>
+
+                  </li>
+
+                
+
+                   <li>
+
+                    
+
+                  </li>
+
+                  
+
+                  <li>
+
+                     <div class="sinfo">
+
+                      <a data-toggle="modal" data-target="#fkip">
+
+                        <img src="./assets/images/2.png" alt="" width="200">
+
+                        <h6>FKIP</h6>
+
+                        <p>Fakultas Keguruan dan Ilmu Pendidikan</p>
+
+                      </a>
+
+                     </div>
+
+                  </li>
+
+            
+
+                     <li>
+
+                     
+
+                  </li>
+
+          
+
+                  <li>
+
+                     <div class="sinfo">
+
+                      <a data-toggle="modal" data-target="#fst">
+
+                        <img src="./assets/images/3.png" alt="" width="200">
+
+                        <h6>FST</h6>
+
+                        <p>Fakultas Sains dan Teknologi</p>
+
+                      </a>
+
+                     </div>
+
+                  </li>
+
+               
+
+                  
+
+               </ul>
+
+            </div>
+
+         </section>-->
+
+
+
+         <!-- Modal -->
+
+<div class="modal fade" id="fkes" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+
+    <div class="modal-content">
+
+      <div class="modal-header">
+
+        <h5 class="modal-title" id="exampleModalLongTitle">Fakultas Kesehatan</h5>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+
+          <span aria-hidden="true">&times;</span>
+
+        </button>
+
+      </div>
+
+      <div class="modal-body" align="center">
+
+  <iframe width="750" height="400" src="https://www.youtube.com/embed/LItseM2eOMc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      </div>
+
+     
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+<!-- Modal -->
+
+<div class="modal fade" id="fkip" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+
+    <div class="modal-content">
+
+      <div class="modal-header">
+
+        <h5 class="modal-title" id="exampleModalLongTitle">Fakultas Keguruan dan Ilmu Pendidikan</h5>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+
+          <span aria-hidden="true">&times;</span>
+
+        </button>
+
+      </div>
+
+      <div class="modal-body" align="center">
+
+ 
+
+      </div>
+
+     
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+
+<!-- Modal -->
+
+<div class="modal fade" id="fst" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+
+    <div class="modal-content">
+
+      <div class="modal-header">
+
+        <h5 class="modal-title" id="exampleModalLongTitle">Fakultas Sains dan Teknologi</h5>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+
+          <span aria-hidden="true">&times;</span>
+
+        </button>
+
+      </div>
+
+      <div class="modal-body" align="center">
+
+
+
+      </div>
+
+     
+
+    </div>
+
+  </div>
+
+</div>
+
+         <!--Service Area End--> 
+
+         <!--About Section Start-->
+
+         <section class="home2-about wf100 p20 gallery" style="margin-top:50px;">
+
+            <div class="container">
+
+               
+
+                     <div class="h2-about-txt">
+
+                        <h3>Sambutan Rektor UNIQHBA.</h3>
+
+                        
+                      
+
+                          <table width="100%">
+<tbody>
+<tr>
+<td style="width: 10%; height: 13px;" valign="top"><img src="https://sim.uniqhba.ac.id/assets/upload/source/WhatsApp%20Image%202021-11-10%20at%2011.23.24.jpg?1636522265601" alt="" width="237" height="263" /></td>
+<td style="width: 82%; height: 13px; margin-left: 20px; text-align: justify;" valign="top">
+<p style="padding-left: 30px;">Puji syukur dipanjatkan ke hadirat Allah SWT atas rahmat dan karunia iman dan Islam bagi kita. Shalawat dan salam semoga senantiasa tercurah kepada Rasulullah Muhammad SAW., kepada keluarga, para sahabat serta pengikutnya sampai akhir zaman perubahan.</p>
+<p style="padding-left: 30px;">Selamat datang kami ucapkan, di Universitas Qamarul Huda Badaruddin Bagu - tempat menimba ilmu, menjadi insan cendekia dan profesional yang unggul, bermental positif dan bermanfaat bagi masyarakat, bangsa dan negara.</p>
+<p style="padding-left: 30px;">- <strong>Dr. H. Menap, S.Kp., M.Kes</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+                    
+
+                      
+                  
+
+          
+
+           </div>
+
+                  </div>
+
+         </section>
+
+         <!--About Section End--> 
+
+
+
+         <!--Current Projects Start-->
+
+         <section class="wf100 p20 current-projects">
+
+            <div class="container">
+
+               <div class="row">
+
+                  <div class="col-lg-6">
+
+                     <div class="section-title-2">
+
+                        <h5>Ingin Tau Tentang Kampus UNIQHBA ?</h5>
+
+                        <h2>Berita Kampus</h2>
+
+                     </div>
+
+                  </div>
+
+                  <div class="col-lg-6">
+
+                    <a href="https://uniqhba.ac.id/posting/berita" class="view-more">Lihat Berita Lainnya</a>
+
+                     
+
+                  </div>
+
+               </div>
+
+               <div class="row">
+
+                  <div class="col-md-12">
+
+                     <div class="tab-content" id="myTabContent">
+
+
+
+                    
+
+                        <!--WildLife Slider Start-->
+
+                        <div class="tab-pane fade show active" id="berita" role="tabpanel" aria-labelledby="berita-tab">
+
+                           <div class="cpro-slider owl-carousel owl-theme">
+
+                              <!--Pro Box-->
+
+                              
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/Logo-Akreditasi-B-LAM-PTKes-300x2421.jpg" alt="">
+
+                                    <h5>Prodi Profesi Ners dan S1 Keperawatan Terakreditasi B</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Prodi Profesi Ners dan S1 Keperawatan Terakreditasi B</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/5/Prodi-Profesi-Ners-dan-S1-Keperawatan-Terakreditasi-B">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/IMG_8314-1-570x456.jpg" alt="">
+
+                                    <h5>Peresmian Universitas Qamarul Huda Badarudin</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Peresmian Universitas Qamarul Huda Badarudin</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/6/Peresmian-Universitas-Qamarul-Huda-Badarudin">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-07-11-at-11.23_.48-AM-300x225_.jpeg" alt="">
+
+                                    <h5>Lokakarya Peningkatan Kapasitas Perguruan Tinggi Melalui Penguatan SPMI</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Lokakarya Peningkatan Kapasitas Perguruan Tinggi Melalui Penguatan SPMI</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/8/Lokakarya-Peningkatan-Kapasitas-Perguruan-Tinggi-Melalui-Penguatan-SPMI">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-07-11-at-11.39_.56-AM-570x456_.jpeg" alt="">
+
+                                    <h5>Pelatihan Item Develovment dan Workshop Item Review</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Pelatihan Item Develovment dan Workshop Item Review</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/9/Pelatihan-Item-Develovment-dan-Workshop-Item-Review">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-07-11-at-2.10_.39-PM-570x456_.jpeg" alt="">
+
+                                    <h5>Lokakarya Penyusunan Dokumen Sistem Penjaminan Mutu Internal</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Lokakarya Penyusunan Dokumen Sistem Penjaminan Mutu Internal</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/10/Lokakarya-Penyusunan-Dokumen-Sistem-Penjaminan-Mutu-Internal">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-09-30-at-11.16_.35-AM-570x456_.jpeg" alt="">
+
+                                    <h5>Bimbingan Teknis Penyusunan Statuta Perguruan Tinggi Swasta</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Bimbingan Teknis Penyusunan Statuta Perguruan Tinggi Swasta</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/12/Bimbingan-Teknis-Penyusunan-Statuta-Perguruan-Tinggi-Swasta">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-11-05-at-12.07_.58-PM-1-e1541739747154_.jpeg" alt="">
+
+                                    <h5>Pembelajaran RPL RMIK di Lapangan</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Pembelajaran RPL RMIK di Lapangan</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/14/Pembelajaran-RPL-RMIK-di-Lapangan">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/IMG-20211007-WA0001.jpg" alt="">
+
+                                    <h5>Kunjungan Mendikbud-Ristek Nadiem Makarim di UNIQHBA BAGU</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Kunjungan Mendikbud-Ristek Nadiem Makarim di UNIQHBA BAGU</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/23/Kunjungan-Mendikbud-Ristek-Nadiem-Makarim-di-UNIQHBA-BAGU">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2021-11-13_at_09.28_.05_.jpeg" alt="">
+
+                                    <h5>WISUDA PERIODE NOVEMBER 2021 MELULUSKAN 169 WISUDAWAN </h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>WISUDA PERIODE NOVEMBER 2021 MELULUSKAN 169 WISUDAWAN </h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/26/WISUDA-PERIODE-NOVEMBER-2021-MELULUSKAN-169-WISUDAWAN-">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2021-11-29_at_11.15_.44_.jpeg" alt="">
+
+                                    <h5>Ucapan Selamat dan Sukses atas diraihnya Akreditasi Prodi Magister Administrasi Kesehatan</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Ucapan Selamat dan Sukses atas diraihnya Akreditasi Prodi Magister Administrasi Kesehatan</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/32/Ucapan-Selamat-dan-Sukses-atas-diraihnya-Akreditasi-Prodi-Magister-Administrasi-Kesehatan">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/2._WEB_.jpeg" alt="">
+
+                                    <h5>Perjanjian Kerjasama Universitas Qamarul Huda Badaruddin (UNIQHBA) dengan kelurahan Leneng, Lombok Tengah</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Perjanjian Kerjasama Universitas Qamarul Huda Badaruddin (UNIQHBA) dengan kelurahan Leneng, Lombok Tengah</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/33/Perjanjian-Kerjasama-Universitas-Qamarul-Huda-Badaruddin-(UNIQHBA)-dengan-kelurahan-Leneng,-Lombok-Tengah">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WEB_1.jpeg" alt="">
+
+                                    <h5>Wisuda Perdana Program Pascasarjana UNIQHBA</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Wisuda Perdana Program Pascasarjana UNIQHBA</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/38/Wisuda-Perdana-Program-Pascasarjana-UNIQHBA">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/screenshoot_webinar.jpg" alt="">
+
+                                    <h5>Professor dari Malaysia mendorong publikasi Artikel pada Jurnal Internasional  pada  webinar internasional yang diselenggarakan oleh LPPM UNIQHBA</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Professor dari Malaysia mendorong publikasi Artikel pada Jurnal Internasional  pada  webinar internasional yang diselenggarakan oleh LPPM UNIQHBA</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/39/Professor-dari-Malaysia-mendorong-publikasi-Artikel-pada-Jurnal-Internasional--pada--webinar-internasional-yang-diselenggarakan-oleh-LPPM-UNIQHBA">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2022-03-27_at_10.16_.44_.jpeg" alt="">
+
+                                    <h5>Workshop Pengembangan Kurikulum Merdeka Belajar Kampus Merdeka (MBKM)</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Workshop Pengembangan Kurikulum Merdeka Belajar Kampus Merdeka (MBKM)</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/41/Workshop-Pengembangan-Kurikulum-Merdeka-Belajar-Kampus-Merdeka-(MBKM)">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/a.jpeg" alt="">
+
+                                    <h5>Workshop pengembangan kurikulum Merdeka Belajar Kampus Merdeka (Hari ke-2)</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Workshop pengembangan kurikulum Merdeka Belajar Kampus Merdeka (Hari ke-2)</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/42/Workshop-pengembangan-kurikulum-Merdeka-Belajar-Kampus-Merdeka-(Hari-ke-2)">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/senat.jpg" alt="">
+
+                                    <h5>UNIQHBA Selenggarakan Wisuda Periode November 2022</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>UNIQHBA Selenggarakan Wisuda Periode November 2022</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/46/UNIQHBA-Selenggarakan-Wisuda-Periode-November-2022">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/DSC08770.JPG" alt="">
+
+                                    <h5>Mahasiswa UNIQHBA Lakukan Kegiatan Pengabdian kepada Masyarakat Desa Segala Anyar, Kecamatan Pujut Tahun 2023</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Mahasiswa UNIQHBA Lakukan Kegiatan Pengabdian kepada Masyarakat Desa Segala Anyar, Kecamatan Pujut Tahun 2023</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/48/Mahasiswa-UNIQHBA-Lakukan-Kegiatan-Pengabdian-kepada-Masyarakat-Desa-Segala-Anyar,-Kecamatan-Pujut-Tahun-2023">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2023-03-21_at_20.59_.39_.jpeg" alt="">
+
+                                    <h5>Penandatanganan Kerja Sama Uniqhba Bagu dengan Multimedia University (MMU) Malaysia</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Penandatanganan Kerja Sama Uniqhba Bagu dengan Multimedia University (MMU) Malaysia</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/49/Penandatanganan-Kerja-Sama-Uniqhba-Bagu-dengan-Multimedia-University-(MMU)-Malaysia">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2023-06-21_at_11.46_.06_.jpeg" alt="">
+
+                                    <h5>Fakultas Kesehatan UNIQHBA dan Rumah Sakit UNRAM Melakukan Penandatanganan Kerjasama dalam Bidang Tri Dharma Tahun 2023</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Fakultas Kesehatan UNIQHBA dan Rumah Sakit UNRAM Melakukan Penandatanganan Kerjasama dalam Bidang Tri Dharma Tahun 2023</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/53/Fakultas-Kesehatan-UNIQHBA-dan-Rumah-Sakit-UNRAM-Melakukan-Penandatanganan-Kerjasama-dalam-Bidang-Tri-Dharma-Tahun-2023">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2023-06-09_at_17.56_.47_(1)_.jpeg" alt="">
+
+                                    <h5>Penyelenggaraan Workshop Auditor Mutu Internal Bekerjasama Direktorat Belmawa Kemdikbudristek</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Penyelenggaraan Workshop Auditor Mutu Internal Bekerjasama Direktorat Belmawa Kemdikbudristek</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/54/Penyelenggaraan-Workshop-Auditor-Mutu-Internal-Bekerjasama-Direktorat-Belmawa-Kemdikbudristek">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/d.jpg" alt="">
+
+                                    <h5>PENGUKUHAN DAN ANGKAT SUMPAH PROFESI NERS UNIVERSITAS QAMARUL HUDA BADARUDDIN (UNIQHBA) BAGU</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>PENGUKUHAN DAN ANGKAT SUMPAH PROFESI NERS UNIVERSITAS QAMARUL HUDA BADARUDDIN (UNIQHBA) BAGU</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/57/PENGUKUHAN-DAN-ANGKAT-SUMPAH-PROFESI-NERS-UNIVERSITAS-QAMARUL-HUDA-BADARUDDIN-(UNIQHBA)-BAGU">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/1.jpg" alt="">
+
+                                    <h5>Universitas Airlangga dan Universitas Qamarul Huda Badaruddin Bagu Jalin Kerja Sama Halal untuk Dukung UMKM di Lombok Tengah</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Universitas Airlangga dan Universitas Qamarul Huda Badaruddin Bagu Jalin Kerja Sama Halal untuk Dukung UMKM di Lombok Tengah</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/59/Universitas-Airlangga-dan-Universitas-Qamarul-Huda-Badaruddin-Bagu-Jalin-Kerja-Sama-Halal-untuk-Dukung-UMKM-di-Lombok-Tengah">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/wabup.jpg" alt="">
+
+                                    <h5>Wakil Bupati Lombok Tengah Apresiasi Kerjasama UNAIR dan UNIQHBA BAGU Bidang Pengabdian Masyarakat</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Wakil Bupati Lombok Tengah Apresiasi Kerjasama UNAIR dan UNIQHBA BAGU Bidang Pengabdian Masyarakat</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/60/Wakil-Bupati-Lombok-Tengah-Apresiasi-Kerjasama-UNAIR-dan-UNIQHBA-BAGU-Bidang-Pengabdian-Masyarakat">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/rtm.jpg" alt="">
+
+                                    <h5>Laporan Kegiatan Rapat Tinjauan Manajemen (Rtm)  Lingkup Uniqhba Tahun  2023</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Laporan Kegiatan Rapat Tinjauan Manajemen (Rtm)  Lingkup Uniqhba Tahun  2023</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/61/Laporan-Kegiatan-Rapat-Tinjauan-Manajemen-(Rtm)--Lingkup-Uniqhba-Tahun--2023">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/upload_fix_cover.jpg" alt="">
+
+                                    <h5>UNIQHBA MELULUSKAN 213 WISUDAWAN PADA WISUDA SEPTEMBER 2023 </h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>UNIQHBA MELULUSKAN 213 WISUDAWAN PADA WISUDA SEPTEMBER 2023 </h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/62/UNIQHBA-MELULUSKAN-213-WISUDAWAN-PADA-WISUDA-SEPTEMBER-2023-">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2023-12-20_at_12.47_.26_5329d958_.jpg" alt="">
+
+                                    <h5>Peningkatan SDM Dosen UNIQHBA melalui Sosialisasi Program Pascasarjana Universitas Mataram</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Peningkatan SDM Dosen UNIQHBA melalui Sosialisasi Program Pascasarjana Universitas Mataram</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/63/Peningkatan-SDM-Dosen-UNIQHBA-melalui-Sosialisasi-Program-Pascasarjana-Universitas-Mataram">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2022-01-10_at_12.12_.01_.jpeg" alt="">
+
+                                    <h5>UNIQHBA MELULUSKAN 155 WISUDAWAN PADA WISUDA FEBRUARI 2024 (GEL.1) </h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>UNIQHBA MELULUSKAN 155 WISUDAWAN PADA WISUDA FEBRUARI 2024 (GEL.1) </h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/64/UNIQHBA-MELULUSKAN-155-WISUDAWAN-PADA-WISUDA-FEBRUARI-2024-(GEL.1)-">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2024-02-26_at_09.36_.25_754c853f_.jpg" alt="">
+
+                                    <h5>UNIQHBA MELULUSKAN 239 WISUDAWAN PADA WISUDA 26 FEBRUARI 2024 (GEL.2) </h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>UNIQHBA MELULUSKAN 239 WISUDAWAN PADA WISUDA 26 FEBRUARI 2024 (GEL.2) </h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/65/UNIQHBA-MELULUSKAN-239-WISUDAWAN-PADA-WISUDA-26-FEBRUARI-2024-(GEL.2)-">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/Untitled.png" alt="">
+
+                                    <h5>LAPORAN RAPAT TINJAUAN MANAJEMEN (RTM)  UNIQHBA TAHUN  2024</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>LAPORAN RAPAT TINJAUAN MANAJEMEN (RTM)  UNIQHBA TAHUN  2024</h6>
+
+                                    
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/69/LAPORAN-RAPAT-TINJAUAN-MANAJEMEN-(RTM)--UNIQHBA-TAHUN--2024">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+
+
+                  
+
+                           </div>
+
+                        </div>
+
+                        <!--WildLife Slider End--> 
+
+
+
+
+
+                      
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </section>
+
+
+
+                  <!--Current Projects Start-->
+
+         <section class="wf100 p80 current-projects">
+
+            <div class="container">
+
+               <div class="row">
+
+                  <div class="col-lg-6">
+
+                     <div class="section-title-2">
+
+                        <h5>Ingin Tau Informasi-Informasi Kampus UNIQHBA ?</h5>
+
+                        <h2>Info Kampus</h2>
+
+                     </div>
+
+                  </div>
+
+                  <div class="col-lg-6">
+
+                    <a href="https://uniqhba.ac.id/posting/informasi" class="view-more">Lihat Info Lainnya</a>
+
+                     
+
+                  </div>
+
+               </div>
+
+               <div class="row">
+
+                  <div class="col-md-12">
+
+                     <div class="tab-content" id="myTabContent">
+
+
+
+                    
+
+                        <!--WildLife Slider Start-->
+
+                        <div class="tab-pane fade show active" id="info" role="tabpanel" aria-labelledby="info-tab">
+
+                           <div class="cpro-slider owl-carousel owl-theme">
+
+                              <!--Pro Box-->
+
+                              
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-02-10-at-11.29_.11-AM-570x456_.jpeg" alt="">
+
+                                    <h5>Penerimaan Mahasiswa Baru</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Penerimaan Mahasiswa Baru</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/7/Penerimaan-Mahasiswa-Baru">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2019-07-01-at-7.30_.14-PM_.jpeg" alt="">
+
+                                    <h5>UNIQHBA Buka Program PascaSarjana Prodi Magister Administrasi & Kebijakan Kesehatan</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>UNIQHBA Buka Program PascaSarjana Prodi Magister Administrasi & Kebijakan Kesehatan</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/15/UNIQHBA-Buka-Program-PascaSarjana-Prodi-Magister-Administrasi-&-Kebijakan-Kesehatan">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2020-05-30-at-10.50_.18-2_.jpeg" alt="">
+
+                                    <h5>Brosur Penerimaan Mahasiswa Baru (D3, S1, Profesi)</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Brosur Penerimaan Mahasiswa Baru (D3, S1, Profesi)</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/20/Brosur-Penerimaan-Mahasiswa-Baru-(D3,-S1,-Profesi)">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2020-05-30-at-10.50_.18_.jpeg" alt="">
+
+                                    <h5>Brosur Pasca Sarjana (Magister Kesehatan)</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Brosur Pasca Sarjana (Magister Kesehatan)</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/21/Brosur-Pasca-Sarjana-(Magister-Kesehatan)">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/6_pilar_menuju_sembilan_bintang_Bagu-01.jpg" alt="">
+
+                                    <h5>6 Pilar Langkah Meraih 9 Bintang BAGU</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>6 Pilar Langkah Meraih 9 Bintang BAGU</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/24/6-Pilar-Langkah-Meraih-9-Bintang-BAGU">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2021-11-25_at_16.50_.30_.jpeg" alt="">
+
+                                    <h5>International Job Recruitment 2021</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>International Job Recruitment 2021</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/27/International-Job-Recruitment-2021">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2021-11-26_at_09.59_.05_.jpeg" alt="">
+
+                                    <h5>Open Recruitment RSI SITI HAJAR</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Open Recruitment RSI SITI HAJAR</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/28/Open-Recruitment-RSI-SITI-HAJAR">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/beasiswa_UKT.png" alt="">
+
+                                    <h5>Beasiswa Uang Kuliah Tunggal (UKT)</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Beasiswa Uang Kuliah Tunggal (UKT)</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/30/Beasiswa-Uang-Kuliah-Tunggal-(UKT)">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/fi_beasiswa-011.jpg" alt="">
+
+                                    <h5>Peraih Beasiswa BMB, KIP dan UKT</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Peraih Beasiswa BMB, KIP dan UKT</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/31/Peraih-Beasiswa-BMB,-KIP-dan-UKT">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/GGESIT.png" alt="">
+
+                                    <h5>Pemeriksaan Kesehatan Gratis</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Pemeriksaan Kesehatan Gratis</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/34/Pemeriksaan-Kesehatan-Gratis">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2022-01-09_at_10.54_.16_.jpeg" alt="">
+
+                                    <h5>The International Webinar: “Tips to Get Published in SCOPUS Journals</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>The International Webinar: “Tips to Get Published in SCOPUS Journals</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/37/The-International-Webinar:-“Tips-to-Get-Published-in-SCOPUS-Journals">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2022-02-11_at_08.49_.39_.jpeg" alt="">
+
+                                    <h5>INTERNATIONAL WEBINAR SERIES #3 </h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>INTERNATIONAL WEBINAR SERIES #3 </h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/40/INTERNATIONAL-WEBINAR-SERIES-#3-">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/kenapa_pilih_bagu-014.jpg" alt="">
+
+                                    <h5>Visi Misi Fakultas Kesehatan</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Visi Misi Fakultas Kesehatan</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/43/Visi-Misi-Fakultas-Kesehatan">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/visimisiners-01.jpg" alt="">
+
+                                    <h5>Visi Misi Prodi Profesi Ners</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Visi Misi Prodi Profesi Ners</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/44/Visi-Misi-Prodi-Profesi-Ners">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/Kartu-Indonesia-Pintar-KIP-Kuliah-1-600x381.jpg" alt="">
+
+                                    <h5>SK PENGUSULAN KIP-K UNIQHBA 2022/2023</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>SK PENGUSULAN KIP-K UNIQHBA 2022/2023</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/45/SK-PENGUSULAN-KIP-K-UNIQHBA-2022/2023">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/IMG-20230307-WA0016.jpg" alt="">
+
+                                    <h5>BERKAS PERSYARATAN BEASISWA BI 2023</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>BERKAS PERSYARATAN BEASISWA BI 2023</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/47/BERKAS-PERSYARATAN-BEASISWA-BI-2023">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/banpt.jpg" alt="">
+
+                                    <h5>PERINGKAT AKREDITASI UNIQHBA</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>PERINGKAT AKREDITASI UNIQHBA</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/52/PERINGKAT-AKREDITASI-UNIQHBA">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://sim.uniqhba.ac.id/assets/upload/posting/Feature_Image_Pak_Menap_Mesa_de_trabajo_1.jpg" alt="">
+
+                                    <h5>Buku dan Modul Kesehatan Masyarakat Dr. Menap, M.Kes.</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>Buku dan Modul Kesehatan Masyarakat Dr. Menap, M.Kes.</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/55/Buku-dan-Modul-Kesehatan-Masyarakat-Dr.-Menap,-M.Kes.">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/KIPK1.jpeg" alt="">
+
+                                    <h5>PENGUMUMAN KELULUSAN BEASISWA KIP KULIAH (KIP-K) 2023 UNIVERSITAS QAMARUL HUDA BADARUDDIN (UNIQHBA) BAGU</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>PENGUMUMAN KELULUSAN BEASISWA KIP KULIAH (KIP-K) 2023 UNIVERSITAS QAMARUL HUDA BADARUDDIN (UNIQHBA) BAGU</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/58/PENGUMUMAN-KELULUSAN-BEASISWA-KIP-KULIAH-(KIP-K)-2023-UNIVERSITAS-QAMARUL-HUDA-BADARUDDIN-(UNIQHBA)-BAGU">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/COVER.jpg" alt="">
+
+                                    <h5>PENGUMUMAN PENERIMA BEASISWA BI 2024</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>PENGUMUMAN PENERIMA BEASISWA BI 2024</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/66/PENGUMUMAN-PENERIMA-BEASISWA-BI-2024">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+                              <div class="item">
+
+                                 <div class="pro-box" style="width: 279px; height: 380px;">
+
+                                    <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/COVER1.jpg" alt="">
+
+                                    <h5>PENGUMUMAN PENERIMA KIP KULIAH UNIVERSITAS QAMARUL HUDA BADARUDDIN TAHUN 2024</h5>
+
+                                    <div class="pro-hover">
+
+                                       <h6>PENGUMUMAN PENERIMA KIP KULIAH UNIVERSITAS QAMARUL HUDA BADARUDDIN TAHUN 2024</h6>
+
+                                       <a href="https://uniqhba.ac.id/posting/detail/67/PENGUMUMAN-PENERIMA-KIP-KULIAH-UNIVERSITAS-QAMARUL-HUDA-BADARUDDIN-TAHUN-2024">Read More</a> 
+
+                                    </div>
+
+                                 </div>
+
+                              </div>
+
+
+
+
+                  
+
+                           </div>
+
+                        </div>
+
+                        <!--WildLife Slider End--> 
+
+
+
+
+
+                      
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </section>
+
+         <!--Current Projects End--> 
+
+         <!--News & Articles Start-->
+
+         <section class="h2-news wf100 p80">
+
+            <div class="container">
+
+               <div class="row">
+
+                  <div class="col-md-6">
+
+                     <div class="section-title-2">
+
+                        <h5>Mau Tau Prestasi Kampus UNIQHBA?</h5>
+
+                        <h2>Prestasi Kampus</h2>
+
+                     </div>
+
+                  </div>
+
+                  <div class="col-md-6"> <a href="https://uniqhba.ac.id/posting/prestasi" class="view-more">Lihat Prestasi Lainnya</a> </div>
+
+               </div>
+
+               <div class="row">
+
+          
+
+                  <div class="col-md-6">
+
+                          
+                     <div class="blog-post-large">
+
+                        <div class="post-thumb"> <a href="https://uniqhba.ac.id/posting/detail/56/SELAMAT-DAN-SUKSES-KEPADA-TIM-FUTSAL-S1-FARMASI-UNIQHBA-ATAS-DIRAIHNYA-JUARA-1--PHARMACY-CUP-TINGKAT-PROVINSI-NTB-TAHUN-2023"><i class="fas fa-link"></i></a> <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2023-06-21_at_11.21_.58_.jpeg" alt=""></div>
+
+                        <div class="post-txt">
+
+                           <ul class="post-meta">
+
+                              <li><i class="fas fa-calendar-alt"></i> 21 Jun 2023</li>
+
+                              <li><i class="fas fa-user"></i> Saputra</li>
+
+                           </ul>
+
+                           <h5><a href="https://uniqhba.ac.id/posting/detail/56/SELAMAT-DAN-SUKSES-KEPADA-TIM-FUTSAL-S1-FARMASI-UNIQHBA-ATAS-DIRAIHNYA-JUARA-1--PHARMACY-CUP-TINGKAT-PROVINSI-NTB-TAHUN-2023">SELAMAT DAN SUKSES KEPADA TIM FUTSAL S1 FARMASI UNIQHBA ATAS DIRAIHNYA JUARA 1  PHARMACY CUP TINGKAT PROVINSI NTB TAHUN 2023</a></h5>
+
+                        </div>
+
+                     </div>
+
+                   
+                  </div>
+
+                  <div class="col-md-6">
+
+                     <!--Blog Small Post Start-->
+
+                     
+                     <div class="blog-small-post">
+
+                        <div class="post-thumb"> <a href="https://uniqhba.ac.id/posting/detail/18/Kegiatan-Hismafarsi-UNIQHBA"><i class="fas fa-link"></i></a> <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2019-12-12-at-10.35_.42_.jpeg" alt=""> </div>
+
+                        <div class="post-txt">
+
+                           <span class="pdate"> <i class="fas fa-calendar-alt"></i> 12 Dec 2019</span>
+
+                           <h5><a href="https://uniqhba.ac.id/posting/detail/18/Kegiatan-Hismafarsi-UNIQHBA">Kegiatan Hismafarsi UNIQHBA</a></h5>
+
+                           <a href="https://uniqhba.ac.id/posting/detail/18/Kegiatan-Hismafarsi-UNIQHBA" class="rm">Read More</a> 
+
+                        </div>
+
+                     </div>
+
+                   
+                     <div class="blog-small-post">
+
+                        <div class="post-thumb"> <a href="https://uniqhba.ac.id/posting/detail/17/UNIQHBA-SEBAGAI-PENYELENGGARA-WORKSHOP-INSTRUMEN-AKREDITASI-4.0"><i class="fas fa-link"></i></a> <img src="https://sim.uniqhba.ac.id/assets/upload/posting/Foto-Penyerahan-Plakat-dari-Rektor-UNIQHBA-kepada-Perwakilan-BAN-PT-Pak-Saepudin-Nirwan.png" alt=""> </div>
+
+                        <div class="post-txt">
+
+                           <span class="pdate"> <i class="fas fa-calendar-alt"></i> 29 Oct 2019</span>
+
+                           <h5><a href="https://uniqhba.ac.id/posting/detail/17/UNIQHBA-SEBAGAI-PENYELENGGARA-WORKSHOP-INSTRUMEN-AKREDITASI-4.0">UNIQHBA SEBAGAI PENYELENGGARA WORKSHOP INSTRUMEN AKREDITASI 4.0</a></h5>
+
+                           <a href="https://uniqhba.ac.id/posting/detail/17/UNIQHBA-SEBAGAI-PENYELENGGARA-WORKSHOP-INSTRUMEN-AKREDITASI-4.0" class="rm">Read More</a> 
+
+                        </div>
+
+                     </div>
+
+                   
+                     <!--Blog Small Post End--> 
+
+                     <!--Blog Small Post Start-->
+
+                 
+
+                     <!--Blog Small Post End--> 
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </section>
+
+         <!--News & Articles End--> 
+
+         <!--Why Ecova + Facts Start-->
+
+         <section class="why-ecova wf100">
+
+            <div class="container">
+
+               <div class="row">
+
+                  <div class="col-md-12">
+
+                     <h1>Panitia Penerimaan Mahasiswa Baru (PPMB)</h1>
+
+                     <p>Buruan daftar menjadi bagian dari Universitas Qamarul Huda Badaruddin. Kamu akan menjadi mahasiswa/Mahasiswi yang berkarakter Ahlussunah Waljama'ah.
+
+                     </p>
+
+                     <a href="https://pmb.uniqhba.ac.id" target="_blank" class="cus">Daftar Sekarang</a> 
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </section>
+
+         <!--Why Ecova + Facts End--> 
+
+         <!--Online Products Start-->
+
+        
+
+         <!--InstaGram Start-->
+
+        
+
+         <section class="testimonials-section wf100 p80">
+
+            <h1 class="text-center">Apa Yang Mereka Katakan Tentang UNIQHBA ?</h1>
+
+            <div class="container">
+
+               <div class="row">
+
+                  <div class="col-md-12">
+
+                     <div id="h3testimonials" class="owl-carousel owl-theme">
+
+                        <!--testimonials box start-->
+
+                         
+                        <div class="item">
+
+                          <p>Universitas Qamarul Huda Badaruddin&nbsp;adalah tempatnya untuk kita membangun dunia IT ataupun Teknologi.</p>
+                           <div class="tuser"> <img src="https://sim.uniqhba.ac.id/assets/upload/testimoni/2.png" alt=""> <strong>Danang Tejo Kumoro</strong> Dosen Teknologi Informasi </div>
+
+                        </div>
+
+                      
+                        <div class="item">
+
+                          <p>Keunggulan&nbsp;UNIQHBA adalah&nbsp;mempunyai&nbsp;keseriusan dalam menyiapkan sarana dan prasarana berbasis digital.</p>
+                           <div class="tuser"> <img src="https://sim.uniqhba.ac.id/assets/upload/testimoni/3.png" alt=""> <strong>Rukmin Ulfa Ayu Lestari</strong> Divisi Networking Pustik </div>
+
+                        </div>
+
+                      
+                        <div class="item">
+
+                          <p>Ga usah jauh-jauh ngejar ilmu sampai ke negeri Cina..<br>
+Sayang Duit...karena di sini juga ada UNIQHBA tercinta.</p>
+                           <div class="tuser"> <img src="https://sim.uniqhba.ac.id/assets/upload/testimoni/pak_adi.png" alt=""> <strong>Rizal Pratama Adi Putro, M.Kes</strong> Alumni Pascasarjana UNIQHBA </div>
+
+                        </div>
+
+                      
+                        <div class="item">
+
+                          <p>UNIQHBA menjadi awal karir saya, jaya selalu UNIQHBA !</p>
+                           <div class="tuser"> <img src="https://sim.uniqhba.ac.id/assets/upload/testimoni/b.jpg" alt=""> <strong>Akhmad Fanani, SKM.,M.Kes</strong> Alumni Pascasarjana UNIQHBA </div>
+
+                        </div>
+
+                      
+                        <!--testimonials box End--> 
+
+                       
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </section>
+
+          
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+          <div align="right" style="padding-right:5px;">
+        <button type="button" class="close btn-danger" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              </div>
+        <div class="modal-body" align="center">
+          
+          <img class="img-rer" src="https://uniqhba.ac.id/assets/bg4.jpeg" width="100%">
+               
+                <p style="text-align:center">Akan Ditutup Dalam <span id="counter">20</span> detik(s).</p>
+        </div>
+      
+      </div>
+    </div>
+  </div>
+
+  <script >
+       window.onload =  function modal_btn_click() {
+
+            //  $('#myModal').modal({ show: true });
+           }
+   </script>
+ 
+
+<script type="text/javascript">
+function countdown() {
+ var i = document.getElementById('counter');
+ i.innerHTML = parseInt(i.innerHTML)-1;
+if (parseInt(i.innerHTML)<=0) {
+  $('#myModal').modal('hide');
+ }
+}
+
+setInterval(function(){ countdown(); },1000);
+
+</script>
+
+           <footer class="footer-style-2">
+
+            <div class="footer-top wf100">
+
+               <div class="container">
+
+                  <div class="row">
+
+                     <div class="col-lg-3 col-sm-6">
+
+                        <!--Footer Widget Start-->
+
+                        <div class="footer-widget about-ecova">
+
+                           <div class="f2logo"> <img width="250" src="https://uniqhba.ac.id/assets/images/logo_header1.png" alt=""> </div>
+
+                                   
+                       
+
+                           
+
+                           <p> <p style="text-align: justify;">Universitas Qamarul Huda Badaruddin (UNIQHBA) berdiri pada tanggal 9 November 2017 yang merupakan hasil dari penggabungan STIKES Qamarul Huda dengan STKIP Qamarul Huda.</p>... </p>
+
+                           <a href="https://uniqhba.ac.id/tentang/index/2/Sejarah" class="more">More...</a> 
+
+                            
+
+                        </div>
+
+                        <!--Footer Widget End--> 
+
+                     </div>
+
+                     <div class="col-lg-2 col-sm-6">
+
+                        <!--Footer Widget Start-->
+
+                        <div class="footer-widget">
+
+                           <h5>Kategori</h5>
+
+                           <ul class="quick-links">
+
+                                   
+                           <li><a href="https://uniqhba.ac.id/">Prestasi</a></li>
+
+                         
+                           <li><a href="https://uniqhba.ac.id/">Berita</a></li>
+
+                         
+                           <li><a href="https://uniqhba.ac.id/">Informasi</a></li>
+
+                         
+                           </ul>
+
+                        </div>
+
+                        <!--Footer Widget End--> 
+
+                     </div>
+
+                     <div class="col-lg-4 col-sm-6">
+
+                        <!--Footer Widget Start-->
+
+                        <div class="footer-widget">
+
+                    
+
+                            <h5>Link Terkait</h5>
+
+                           <ul class="quick-links">
+
+                              <li><a href="http://sim.uniqhba.ac.id">SIM UNIQHBA</a></li>
+
+                              <li><a href="http://pmb.uniqhba.ac.id">PMB (Penerimaan Mahasiswa Baru)</a></li>
+
+                              <li><a href="http://lms.uniqhba.ac.id">LMS (Learning Managemen System)</a></li>
+
+                              <li><a href="http://jkqh.uniqhba.ac.id">Jurnal UNIQHBA</a></li>
+
+                              <li><a href="http://s2adminkes.uniqhba.ac.id">Pascasarjana</a></li>
+
+                           </ul>
+
+                        </div>
+
+                        <!--Footer Widget End--> 
+
+                     </div>
+
+                     <div class="col-lg-3 col-sm-6">
+
+                        <!--Footer Widget Start-->
+
+                        <div class="footer-widget">
+
+                           <h5>Latest Posts</h5>
+
+                           <ul class="lastest-products">
+
+                               
+                              <li> <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-07-11-at-11.23_.48-AM-300x225_.jpeg" alt="" style="max-width: 100px;"> <strong><a href="https://uniqhba.ac.id/posting/detail/8/Lokakarya-Peningkatan-Kapasitas-Perguruan-Tinggi-Melalui-Penguatan-SPMI">Peningkatan Kapasitas Perguruan Tinggi Melalui...</a></strong> <span class="pdate"><i>Posted:</i>11 Jul 2018</span> </li>
+
+                            
+                              <li> <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp-Image-2018-07-11-at-11.39_.56-AM-570x456_.jpeg" alt="" style="max-width: 100px;"> <strong><a href="https://uniqhba.ac.id/posting/detail/9/Pelatihan-Item-Develovment-dan-Workshop-Item-Review">Item Develovment dan Workshop Item...</a></strong> <span class="pdate"><i>Posted:</i>11 Jul 2018</span> </li>
+
+                            
+                              <li> <img src="https://sim.uniqhba.ac.id/assets/upload/posting/WhatsApp_Image_2021-11-29_at_11.15_.44_.jpeg" alt="" style="max-width: 100px;"> <strong><a href="https://uniqhba.ac.id/posting/detail/32/Ucapan-Selamat-dan-Sukses-atas-diraihnya-Akreditasi-Prodi-Magister-Administrasi-Kesehatan">Selamat dan Sukses atas diraihnya...</a></strong> <span class="pdate"><i>Posted:</i>29 Nov 2021</span> </li>
+
+                            
+                              <li> <img src="https://www.sim.uniqhba.ac.id/assets/upload/posting/fi_beasiswa-011.jpg" alt="" style="max-width: 100px;"> <strong><a href="https://uniqhba.ac.id/posting/detail/31/Peraih-Beasiswa-BMB,-KIP-dan-UKT">Beasiswa BMB, KIP dan UKT...</a></strong> <span class="pdate"><i>Posted:</i>29 Nov 2021</span> </li>
+
+                            
+                             
+
+                           </ul>
+
+                        </div>
+
+                        <!--Footer Widget End--> 
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+            <div class="footer-newsletter wf100">
+
+               <div class="container">
+
+                  <div class="row">
+
+                     <div class="col-lg-7">
+
+                        <div class="newsletter">
+
+                           <strong>Join our Newsletter</strong>
+
+                           <ul>
+
+                              <li>
+
+                                 <input  type="text" placeholder="Your Name">
+
+                              </li>
+
+                              <li>
+
+                                 <input  type="text" placeholder="Your Email">
+
+                              </li>
+
+                              <li>
+
+                                 <input  type="submit" value="Subscribe">
+
+                              </li>
+
+                           </ul>
+
+                        </div>
+
+                     </div>
+
+                     <div class="col-lg-5">
+
+                        <div class="footer-social"> <strong>Get Connect</strong> <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a> <a href="#"><i class="fab fa-google-plus-g"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> <a href="#"><i class="fab fa-youtube"></i></a> </div>
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+            <div class="footer-copyr wf100">
+
+               <div class="container">
+
+                  <div class="row">
+
+                     <div class="col-md-8 col-sm-8">
+
+                        <p>Copyright &copy; <a target="_blank" href="https://www.pustik.uniqhba.ac.id">PUSDATIN UNIQHBA</a> All Right Reserved.</p>
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </footer>
+
+
+
+
+
+      </div>
+
+      <!--   JS Files Start  --> 
+
+      <script src="https://uniqhba.ac.id/assets/js/jquery-3.3.1.min.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/jquery-migrate-1.4.1.min.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/popper.min.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/bootstrap.min.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/owl.carousel.min.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/jquery.prettyPhoto.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/isotope.min.js"></script> 
+
+      <script src="https://uniqhba.ac.id/assets/js/custom.js"></script>
+
+      <script src="https://uniqhba.ac.id/assets/datatables/jquery.dataTables.js"></script>
+
+<script src="https://uniqhba.ac.id/assets/datatables/dataTables.bootstrap.js"></script>
+<script>
+
+      $(function () {
+
+        $("#table").DataTable();
+
+        $('#example2').DataTable({
+
+          "paging": true,
+
+          "lengthChange": false,
+
+          "searching": false,
+
+          "ordering": true,
+
+          "info": true,
+
+          "autoWidth": false
+
+        });
+
+      });
+
+    </script>
+
+   </body>
+
+
+
+</html>
+
+
+ 
